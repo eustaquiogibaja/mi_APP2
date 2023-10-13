@@ -1,4 +1,5 @@
 <INICIO>
+0. Validar que solo sean peticiones in ('LIMA')
 1. Obtener gastos del cliente en último mes
 2. obtener el detalle del gasto
 3. listar detalle en objeto
