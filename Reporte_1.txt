@@ -1,0 +1,5 @@
+<INICIO>
+1. Obtener transacciones del cliente
+2. obtener el detalle de las TX
+3. listar detalle en objeto
+<FIN>
